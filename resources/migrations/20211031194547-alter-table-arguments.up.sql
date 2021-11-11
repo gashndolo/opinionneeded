@@ -1,0 +1,2 @@
+ALTER TABLE arguments
+    ADD COLUMN affirm BOOLEAN NOT NULL;
